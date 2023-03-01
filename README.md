@@ -7,6 +7,13 @@ This is the repository of the entrance test for Flutter Developer title at Con C
 - Local database: SQLite3 using Flutter Drift
 - Author: Le Minh Dang (fullname in Vietnamese)
 
+## How to login?
+
+- Firstly: Press Sign Up button (to add the info of user to database)
+- Secondly: Sign In with provided account:
+  - email: concung@gmail.com
+  - password: concung123
+
 ## Architecture MVVM
 
 ![Folder hierarchy](https://lh4.googleusercontent.com/ZgXMeZooiIzVGTM9ZNeJyCbiw4dlBWRtcEVPkgK_ENzc4cWXjFfKxDASQ7wGSGgPshA=w2400 "Folder hierarchy")
