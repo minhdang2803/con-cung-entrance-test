@@ -1,5 +1,5 @@
 import 'package:concung_entrance_test/data/local_source/product_local.dart';
-import 'package:concung_entrance_test/data/remote_source.dart/product_remote.dart';
+import 'package:concung_entrance_test/data/remote_source/product_remote.dart';
 
 import '../../model/product_model.dart';
 

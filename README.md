@@ -5,6 +5,7 @@ This is the repository of the entrance test for Flutter Developer title at Con C
 - The project use MVVM Architectural Design Pattern
 - State management: Provider with StateNotifier
 - Local database: SQLite3 using Flutter Drift
+- Author: Le Minh Dang (fullname in Vietnamese)
 
 ## Architecture MVVM
 
